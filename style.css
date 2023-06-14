@@ -1,0 +1,36 @@
+header {
+  max-height: 20vh;
+  background-color: #DA8EC0;
+}
+
+.menu-properties {
+  background-color: #F2E9d3;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+h2 {
+  border-bottom: 3px solid black;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.button-properties {
+  max-width: 15vw;
+  max-height: 30vh;
+}
+
+.item-img {
+  max-height: 20vh;
+  max-width: 10vw;
+  object-fit: cover;
+}
+
+.cart-properties {
+  height: 80vh;
+
+}
+
+.inner-cart {
+  height: 70vh;
+}
